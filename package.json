@@ -1,6 +1,6 @@
 {
   "name": "bridge-adapter-sdk",
-  "private": true,
+  "private": false,
   "type": "module",
   "license": "SEE LICENSE IN ./LICENSE",
   "scripts": {
